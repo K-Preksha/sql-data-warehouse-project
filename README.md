@@ -1,4 +1,5 @@
 📊 Modern SQL Data Warehouse Project
+
 📌 Project Overview
 
 This project demonstrates the end-to-end implementation of a Modern Data Warehouse using SQL Server. The warehouse is built using a layered architecture (Bronze → Silver → Gold) and implements a Star Schema for analytical reporting.
